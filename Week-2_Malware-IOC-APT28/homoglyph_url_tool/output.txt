@@ -1,0 +1,5 @@
+[⚠️ Suspicious]	g00gle.com	Looks like: ['g00gle.com', "g0o'gle.com", 'g0ogle.com', "go'0gle.com", "go'o'gle.com", "go'ogle.com", 'go0gle.com', "goo'gle.com", 'google.com']
+[⚠️ Suspicious]	yоutube.com	Looks like: ['y0utube.com', "yo'utube.com", 'youtube.com']
+[⚠️ Suspicious]	faceb00k.com	Looks like: ['faceb00k.com', "faceb0o'k.com", 'faceb0ok.com', "facebo'0k.com", "facebo'o'k.com", "facebo'ok.com", 'facebo0k.com', "faceboo'k.com", 'facebook.com']
+[⚠️ Suspicious]	amazon.com	Looks like: ['amazon.com']
+[⚠️ Suspicious]	gοοgle.com	Looks like: ['g00gle.com', "g0o'gle.com", 'g0ogle.com', "go'0gle.com", "go'o'gle.com", "go'ogle.com", 'go0gle.com', "goo'gle.com", 'google.com']
