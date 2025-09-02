@@ -1,0 +1,4 @@
+scapy==2.5.0
+colorlog==6.8.2
+pytest==8.2.0
+rich==13.7.1
